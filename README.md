@@ -10,11 +10,11 @@ This project implements an Ant Colony Optimization (ACO) algorithm using a Genet
 - `Environment.py`: Defines the Environment class that manages the 2D grid
 - `Ant.py`: Implements the Ant class with movement and sensing capabilities
 - `Genetic_Algorithm.py`: Contains the GeneticAlgorithm class that evolves the ant's behavior
-- `santafe.txt`: Input file describing the initial state of the environment
+- `santafe.txt` or `muir.txt`: Input file describing the initial state of the environment
 
 ## How It Works
 
-1. The environment is loaded from `santafe.txt`, defining a 32x32 grid where '1' represents food and '0' represents empty cells.
+1. The environment is loaded from `santafe.txt` or `muir.txt`, defining a 32x32 grid where '1' represents food and '0' represents empty cells.
 2. A population of ants with random genetic codes is initialized.
 3. The genetic algorithm evolves the population over multiple generations:
    - Ants move through the environment based on their genetic code.
@@ -44,6 +44,7 @@ The program outputs:
 - Final results including best fitness, best genome, and generation statistics
 - A file `muir_trail.txt` showing the path of the best-performing ant
 <img width="428" alt="Screenshot 2024-07-10 at 10 10 49 AM" src="https://github.com/Faraz-Ardeh-2004/Ant-Simulation/assets/59162288/f4f2e29f-c1a4-4de4-9362-0af06c293ac5">
+  
 
 
 
