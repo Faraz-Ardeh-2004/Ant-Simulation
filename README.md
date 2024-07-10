@@ -43,7 +43,8 @@ The program outputs:
 - Generation-by-generation progress
 - Final results including best fitness, best genome, and generation statistics
 - A file `muir_trail.txt` showing the path of the best-performing ant
-- <img width="428" alt="Screenshot 2024-07-10 at 10 09 16 AM" src="https://github.com/Faraz-Ardeh-2004/Ant-Simulation/assets/59162288/ce24e3e1-19e1-48f5-8fdb-588af675ff60">
+<img width="428" alt="Screenshot 2024-07-10 at 10 10 49 AM" src="https://github.com/Faraz-Ardeh-2004/Ant-Simulation/assets/59162288/f4f2e29f-c1a4-4de4-9362-0af06c293ac5">
+
 
 
 ## Evaluation Criteria
